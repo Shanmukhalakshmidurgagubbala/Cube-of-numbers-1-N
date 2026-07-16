@@ -1,0 +1,1 @@
+# Cube-of-numbers-1-N
